@@ -34,3 +34,5 @@ const dinoUpdate =  () =>{
 
 dinoUpdate()
 
+console.log('Jordi El Puto Amo')
+
